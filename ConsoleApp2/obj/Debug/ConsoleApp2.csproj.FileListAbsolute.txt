@@ -1,0 +1,7 @@
+E:\LTM-BTVN\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\LTM-BTVN\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\LTM-BTVN\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\LTM-BTVN\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+E:\LTM-BTVN\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\LTM-BTVN\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\LTM-BTVN\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
